@@ -1,0 +1,149 @@
+{
+  "Files": [
+    {
+      "Id": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/obj/Debug/net8.0/scopedcss/projectbundle/VNpage.bundle.scp.css",
+      "PackagePath": "staticwebassets/VNpage.vonu8x19tm.bundle.scp.css"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/fondo.jpg",
+      "PackagePath": "staticwebassets/Images/fondo.jpg"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/logo.png",
+      "PackagePath": "staticwebassets/Images/logo.png"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/logobanner.png",
+      "PackagePath": "staticwebassets/Images/logobanner.png"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/novelas/DDLC.jpg",
+      "PackagePath": "staticwebassets/Images/novelas/DDLC.jpg"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/novelas/GoForAPunch.jpg",
+      "PackagePath": "staticwebassets/Images/novelas/GoForAPunch.jpg"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/novelas/HatofulBoyfriend.jpg",
+      "PackagePath": "staticwebassets/Images/novelas/HatofulBoyfriend.jpg"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/novelas/KatawaShoujo.jpg",
+      "PackagePath": "staticwebassets/Images/novelas/KatawaShoujo.jpg"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/novelas/MilkInside.jpg",
+      "PackagePath": "staticwebassets/Images/novelas/MilkInside.jpg"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/novelas/MilkOutside.jpg",
+      "PackagePath": "staticwebassets/Images/novelas/MilkOutside.jpg"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/novelas/a77f9a37-dba6-4449-b9c9-3a957092688e.jpg",
+      "PackagePath": "staticwebassets/Images/novelas/a77f9a37-dba6-4449-b9c9-3a957092688e.jpg"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/novelas/b2402c6d-b7c8-4fd1-86a5-2de595a34e39.jpg",
+      "PackagePath": "staticwebassets/Images/novelas/b2402c6d-b7c8-4fd1-86a5-2de595a34e39.jpg"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/css/Admin.css",
+      "PackagePath": "staticwebassets/css/Admin.css"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/css/bootstrap.css",
+      "PackagePath": "staticwebassets/css/bootstrap.css"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/data/novelas.json",
+      "PackagePath": "staticwebassets/data/novelas.json"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/data/reseñas_usuarios.json",
+      "PackagePath": "staticwebassets/data/reseñas_usuarios.json"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/favico.ico",
+      "PackagePath": "staticwebassets/favico.ico"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.VNpage.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.VNpage.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.VNpage.props",
+      "PackagePath": "build\\VNpage.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.VNpage.props",
+      "PackagePath": "buildMultiTargeting\\VNpage.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.VNpage.props",
+      "PackagePath": "buildTransitive\\VNpage.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

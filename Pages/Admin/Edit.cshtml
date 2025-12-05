@@ -1,0 +1,40 @@
+@page
+@model VNpage.Pages.Admin.EditModel
+@{
+    Layout = "_AdminLayout";
+    ViewData["Title"] = "Editar Novela Visual";
+}
+
+<h2>✏️ Editar Novela Visual</h2>
+
+<form method="post" enctype="multipart/form-data">
+    <input type="hidden" asp-for="Novela.Id" />
+
+    <label>Título</label>
+    <input asp-for="Novela.Titulo" required />
+
+    <label>Desarrollador</label>
+    <input asp-for="Novela.Desarrollador" />
+
+    <label>Descripción</label>
+    <textarea asp-for="Novela.Descripcion"></textarea>
+
+    <label>Fecha de lanzamiento</label>
+    <input asp-for="Novela.FechaLanzamiento" type="date" />
+
+    <label>Género</label>
+    <input asp-for="Novela.Genero" />
+
+    <label>Nueva Portada (opcional)</label>
+    <input type="file" name="ImagenArchivo" />
+
+    @if (!string.IsNullOrEmpty(Model.Novela.ImagenRuta))
+    {
+        <p>Actual:</p>
+        <img src="@Model.Novela.ImagenRuta" alt="Actual" width="100" />
+    }
+
+    <button type="submit">💾 Guardar Cambios</button>
+</form>
+
+<a href="/Admin">← Cancelar</a>

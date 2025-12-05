@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewData["Title"] - Panel Admin</title>
+    <link rel="stylesheet" href="~/css/admin.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="admin-header">
+        <h1>VN Control System</h1>
+        <nav>
+            <a href="/Admin">Home</a>
+            <a href="/Admin/Create">Nueva Novela</a>
+            <a href="/">Volver al sitio</a>
+        </nav>
+    </header>
+    <main>
+        @if (TempData["MensajeSistema"] != null)
+    {
+        <div class="system-message">
+            @TempData["MensajeSistema"]
+        </div>
+    }
+
+            @RenderBody()
+    </main>
+</body>
+</html>

@@ -1,0 +1,138 @@
+@page
+@model VNpage.Pages.NovelasVisuales
+@{
+    ViewData["Title"] = "NovelasVisuales";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<body>
+
+@if (Model.EstadoContenido == "Novela1")
+{
+    <p>MilkInsideABag</p>
+    <a asp-page="./NovelasVisuales" asp-route-estado="indice">Volver</a>
+
+    <!-- novelas -->
+    <a asp-page="/NovelasVisuales" asp-route-estado="Novela2">
+
+        <img src="~/Images/MilkOutside.jpg" alt="">
+    </a>
+
+    <a asp-page="/NovelasVisuales" asp-route-estado="Novela3">
+
+        <img src="~/Images/GoForAPunch.jpg" alt="">
+    </a>
+
+    <a asp-page="/NovelasVisuales" asp-route-estado="Novela4">
+
+    <img src="~/Images/HatofulBoyfriend.jpg" height="143px" width="250px" alt="">
+    </a>
+}
+
+
+
+
+else if (Model.EstadoContenido == "Novela2") 
+{
+    <p>MilkOutsideABag</p>
+    <a asp-page="./NovelasVisuales" asp-route-estado="indice">Volver</a>
+
+    <!-- novelas -->
+<a asp-page="./NovelasVisuales" asp-route-estado="Novela1">
+
+    <img src="~/Images/MilkInside.jpg" alt="">
+</a>
+
+<a asp-page="/NovelasVisuales" asp-route-estado="Novela3">
+
+    <img src="~/Images/GoForAPunch.jpg" alt="">
+</a>
+
+<a asp-page="/NovelasVisuales" asp-route-estado="Novela4">
+
+    <img src="~/Images/HatofulBoyfriend.jpg" height="143px" width="250px" alt="">
+</a>    
+
+}
+
+
+
+else if (Model.EstadoContenido == "Novela3")
+{
+    <p>info por defecto</p>
+    <a asp-page="./NovelasVisuales" asp-route-estado="indice">Volver</a>
+
+
+    <!-- novelas -->
+
+<a asp-page="./NovelasVisuales" asp-route-estado="Novela1">
+
+    <img src="~/Images/MilkInside.jpg" alt="">
+</a>
+
+<a asp-page="/NovelasVisuales" asp-route-estado="Novela2">
+
+    <img src="~/Images/MilkOutside.jpg" alt="">
+</a>
+<a asp-page="/NovelasVisuales" asp-route-estado="Novela4">
+
+    <img src="~/Images/HatofulBoyfriend.jpg" height="143px" width="250px" alt="">
+</a>    
+
+}
+
+else if (Model.EstadoContenido == "Novela4")
+{
+    <p>info por defecto</p>
+    <a asp-page="./NovelasVisuales" asp-route-estado="indice">Volver</a>
+
+
+    <!-- novelas -->
+
+<a asp-page="./NovelasVisuales" asp-route-estado="Novela1">
+
+    <img src="~/Images/MilkInside.jpg" alt="">
+</a>
+
+<a asp-page="/NovelasVisuales" asp-route-estado="Novela2">
+
+    <img src="~/Images/MilkOutside.jpg" alt="">
+</a>
+
+<a asp-page="/NovelasVisuales" asp-route-estado="Novela3">
+
+    <img src="~/Images/GoForAPunch.jpg" alt="">
+</a>
+
+}
+
+
+
+
+
+else 
+{
+<a asp-page="./NovelasVisuales" asp-route-estado="Novela1">
+
+    <img src="~/Images/MilkInside.jpg" alt="">
+</a>
+
+<a asp-page="/NovelasVisuales" asp-route-estado="Novela2">
+
+    <img src="~/Images/MilkOutside.jpg" alt="">
+</a>
+
+<a asp-page="/NovelasVisuales" asp-route-estado="Novela3">
+
+    <img src="~/Images/GoForAPunch.jpg" alt="">
+</a>
+<a asp-page="/NovelasVisuales" asp-route-estado="Novela4">
+
+    <img src="~/Images/HatofulBoyfriend.jpg" height="143px" width="250px" alt="">
+</a>
+}
+
+
+
+</body>

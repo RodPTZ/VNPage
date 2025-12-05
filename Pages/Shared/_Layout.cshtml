@@ -1,0 +1,32 @@
+﻿<html lang="es">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Visual Novel Reviews</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <header>
+<nav class="navbar">
+    <div class="nav-left">
+        <img src="~/Images/logobanner.png" alt="Logo" height="120" width="" class="logo" />
+        <h1 class="site-title">ㅤㅤㅤㅤVisual Novel</h1> <h1 class="site-title">ㅤㅤㅤㅤㅤReviews</h1>
+    </div>
+
+    <ul class="nav-links">
+        <li><a asp-page="/Index">Home</a></li>
+        <li><a asp-page="/Novelas_Visuales/Index">Novelas Visuales</a></li>
+    </ul>
+</nav>
+
+    </header>
+
+    <main role="main" class="content">
+        @RenderBody()
+    </main>
+
+    <footer>
+        <p>© 2025 Visual Novel Reviews. Inspirado por el aroma del café y el drama de píxeles.</p>
+    </footer>
+</body>
+</html>

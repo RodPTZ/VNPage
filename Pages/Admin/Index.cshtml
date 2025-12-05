@@ -1,0 +1,87 @@
+@page
+@model VNpage.Pages.Admin.IndexModel
+@{
+    ViewData["Title"] = "Panel de Administración";
+}
+
+<h1 class="text-2xl font-bold mb-4">Panel de Administración</h1>
+
+<a asp-page="Create" class="btn">➕ Agregar nueva novela</a>
+
+<table class="table mt-4">
+    <thead>
+        <tr>
+            <th>Título</th>
+            <th>Desarrollador</th>
+            <th>Fecha</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Novelas)
+        {
+            <tr>
+                <td>@item.Titulo</td>
+                <td>@item.Desarrollador</td>
+                <td>@item.FechaLanzamiento.ToShortDateString()</td>
+                <td>
+                    <a asp-page="Edit" asp-route-id="@item.Id">Editar</a> |
+                    <a asp-page="Delete" asp-route-id="@item.Id">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+@*
+@page
+@model VNpage.Pages.Admin.IndexModel
+@{
+    Layout = "_AdminLayout";
+    ViewData["Title"] = "Panel de Administración";
+}
+
+<h2>🧩 Panel de Administración</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Título</th>
+            <th>Desarrollador</th>
+            <th>Género</th>
+            <th>Portada</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var n in Model.Novelas)
+    {
+        <tr>
+            <td>@n.Titulo</td>
+            <td>@n.Desarrollador</td>
+            <td>@n.Genero</td>
+            <td>
+                @if (!string.IsNullOrEmpty(n.ImagenRuta))
+                {
+                    <img src="@n.ImagenRuta" alt="Portada" width="80" />
+                }
+            </td>
+            <td>
+                <a href="/Admin/Edit?id=@n.Id">Editar</a> |
+                <a href="/Admin/Delete?id=@n.Id">Eliminar</a>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>
+
+<a href="/Admin/Create" class="btn">➕ Nueva Novela</a>*@

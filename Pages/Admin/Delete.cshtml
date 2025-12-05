@@ -1,0 +1,21 @@
+@page
+@model VNpage.Pages.Admin.DeleteModel
+@{
+    Layout = "_AdminLayout";
+    ViewData["Title"] = "Eliminar Novela Visual";
+}
+
+<h2>⚠️ Confirmar eliminación</h2>
+
+<p>¿Realmente deseas eliminar <strong>@Model.Novela.Titulo</strong>?</p>
+
+@if (!string.IsNullOrEmpty(Model.Novela.ImagenRuta))
+{
+    <img src="@Model.Novela.ImagenRuta" alt="Portada" width="120" />
+}
+
+<form method="post">
+    <input type="hidden" asp-for="Novela.Id" />
+    <button type="submit" class="danger">Eliminar</button>
+    <a href="/Admin">Cancelar</a>
+</form>

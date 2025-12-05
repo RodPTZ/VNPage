@@ -1,0 +1,23 @@
+﻿@page
+@model VisualNovelReviews.Pages.IndexModel
+@{
+    ViewData["Title"] = "Inicio";
+}
+
+<section class="hero">
+    <div class="overlay">
+        <h2>Explora el mundo de las novelas visuales</h2>
+        <p>Reseñas, análisis y nostalgia visual en cada clic.</p>
+        <a href="Novelas_Visuales" class="btn-primary">Ver todas</a>
+    </div>
+</section>
+
+<section class="reviews">
+    @foreach (var item in Model.Reseñas)
+    {
+        <article class="review-card">
+            <h3>@item.Título</h3>
+            <p>@item.Descripción</p>
+        </article>
+    }
+</section>

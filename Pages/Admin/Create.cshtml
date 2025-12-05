@@ -1,0 +1,32 @@
+@page
+@model VNpage.Pages.Admin.CreateModel
+@{
+    Layout = "_AdminLayout";
+    ViewData["Title"] = "Nueva Novela Visual";
+}
+
+<h2>➕ Nueva Novela Visual</h2>
+
+<form method="post" enctype="multipart/form-data">
+    <label>Título</label>
+    <input asp-for="Novela.Titulo" required />
+
+    <label>Desarrollador</label>
+    <input asp-for="Novela.Desarrollador" />
+
+    <label>Descripción</label>
+    <textarea asp-for="Novela.Descripcion"></textarea>
+
+    <label>Fecha de lanzamiento</label>
+    <input asp-for="Novela.FechaLanzamiento" type="date" />
+
+    <label>Género</label>
+    <input asp-for="Novela.Genero"/>
+
+    <label>Portada</label>
+    <input type="file" name="ImagenArchivo" />
+
+    <button type="submit">Guardar</button>
+</form>
+
+<a href="/Admin">← Volver</a>

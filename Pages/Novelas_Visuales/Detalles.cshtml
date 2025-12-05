@@ -1,0 +1,29 @@
+@page "{id:int}"
+@model VNpage.Pages.Novelas_Visuales.Detalles
+@{
+    ViewData["Title"] = "Detalles";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div>
+    @if (User.Identity.IsAuthenticated)
+{
+    <form method="post">
+        <textarea asp-for="NuevoComentario.Contenido" rows="3" placeholder="Escribe tu reseña..."></textarea>
+        <button type="submit">Publicar</button>
+    </form>
+}
+else
+{
+    <p><a asp-page="/Account/Login">Inicia sesión</a> para dejar un comentario.</p>
+}
+
+@foreach (var c in Model.Comentarios)
+{
+    <div class="comentario">
+        <strong>@c.Usuario.DisplayName</strong> — <em>@c.Fecha.ToShortDateString()</em>
+        <p>@c.Contenido</p>
+    </div>
+}
+</div>

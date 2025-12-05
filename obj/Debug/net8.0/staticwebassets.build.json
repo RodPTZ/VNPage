@@ -1,0 +1,3318 @@
+{
+  "Version": 1,
+  "Hash": "puVkm/qUyyeCl5FXfoJMsMHhsr0ef6fAfMjsP1PwQBM=",
+  "Source": "VNpage",
+  "BasePath": "_content/VNpage",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "VNpage/wwwroot",
+      "Source": "VNpage",
+      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "BasePath": "_content/VNpage",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/obj/Debug/net8.0/scopedcss/bundle/VNpage.styles.css",
+      "SourceId": "VNpage",
+      "SourceType": "Computed",
+      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/obj/Debug/net8.0/scopedcss/bundle/",
+      "BasePath": "_content/VNpage",
+      "RelativePath": "VNpage#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "vonu8x19tm",
+      "Integrity": "kbAZudWypKCnRK8y3OqvxsH1ihJN3FsO4h8KpGALh8Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/obj/Debug/net8.0/scopedcss/bundle/VNpage.styles.css"
+    },
+    {
+      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/obj/Debug/net8.0/scopedcss/projectbundle/VNpage.bundle.scp.css",
+      "SourceId": "VNpage",
+      "SourceType": "Computed",
+      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/obj/Debug/net8.0/scopedcss/projectbundle/",
+      "BasePath": "_content/VNpage",
+      "RelativePath": "VNpage#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "vonu8x19tm",
+      "Integrity": "kbAZudWypKCnRK8y3OqvxsH1ihJN3FsO4h8KpGALh8Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/obj/Debug/net8.0/scopedcss/projectbundle/VNpage.bundle.scp.css"
+    },
+    {
+      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/css/Admin.css",
+      "SourceId": "VNpage",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "BasePath": "_content/VNpage",
+      "RelativePath": "css/Admin#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "a890trt4p5",
+      "Integrity": "Rnj+9AJm1FTcXClWZry+7+jUL9h2UsLuHJdJZzyOV74=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/Admin.css"
+    },
+    {
+      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/css/bootstrap.css",
+      "SourceId": "VNpage",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "BasePath": "_content/VNpage",
+      "RelativePath": "css/bootstrap#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "j1uom91mw7",
+      "Integrity": "6Sf2Z4ylhu2qHIGNgZWsJ4nk2tgOdV+k5V94JguAed4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/bootstrap.css"
+    },
+    {
+      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/css/site.css",
+      "SourceId": "VNpage",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "BasePath": "_content/VNpage",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ty28lxgc1s",
+      "Integrity": "BRpc5xXYpHpwCLraDBs1SZVYVviYID18+ylJRsvaCYE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/site.css"
+    },
+    {
+      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/data/novelas.json",
+      "SourceId": "VNpage",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "BasePath": "_content/VNpage",
+      "RelativePath": "data/novelas#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lwp6i21df9",
+      "Integrity": "W00drueZ8haYov4O/NdptRpvSSXVvX9r9NHb2MpmH9Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/data/novelas.json"
+    },
+    {
+      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/data/reseñas_usuarios.json",
+      "SourceId": "VNpage",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "BasePath": "_content/VNpage",
+      "RelativePath": "data/reseñas_usuarios#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rdwg40nu6w",
+      "Integrity": "EYTxHgAiyTvrWnZKUsYmlc2Yv3EDyZ+pokyhwgqdvgI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/data/reseñas_usuarios.json"
+    },
+    {
+      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/favico.ico",
+      "SourceId": "VNpage",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "BasePath": "_content/VNpage",
+      "RelativePath": "favico#[.{fingerprint}]?.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "umtfc14n8n",
+      "Integrity": "OowOGs/grj+aEDuvwxP2DMndrc3lSBfTZPGNoo6JnRE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/favico.ico"
+    },
+    {
+      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/fondo.jpg",
+      "SourceId": "VNpage",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "BasePath": "_content/VNpage",
+      "RelativePath": "Images/fondo#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9zitsiwp0k",
+      "Integrity": "VWmoklaFyyYXBwWAcMkY/0CDLNAlzRFqkJT3iWHG2Ps=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/fondo.jpg"
+    },
+    {
+      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/logo.png",
+      "SourceId": "VNpage",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "BasePath": "_content/VNpage",
+      "RelativePath": "Images/logo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mm8tmb6ihw",
+      "Integrity": "Em1mx3/d1neI/gmXxXdK+HinZzYlhbzZeDfuqKDl4t4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/logo.png"
+    },
+    {
+      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/logobanner.png",
+      "SourceId": "VNpage",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "BasePath": "_content/VNpage",
+      "RelativePath": "Images/logobanner#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "akp1ptgwad",
+      "Integrity": "qoR93UyFWfgr9eEP9d5Q7KaUfzOirNL2R3wPHW7Cb84=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/logobanner.png"
+    },
+    {
+      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/novelas/a77f9a37-dba6-4449-b9c9-3a957092688e.jpg",
+      "SourceId": "VNpage",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "BasePath": "_content/VNpage",
+      "RelativePath": "Images/novelas/a77f9a37-dba6-4449-b9c9-3a957092688e#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wgfw9js7x0",
+      "Integrity": "UGuiCBYdZTJzMAvoYRAQUZbDnfbLE+dGPsjYfB/UnKI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/novelas/a77f9a37-dba6-4449-b9c9-3a957092688e.jpg"
+    },
+    {
+      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/novelas/b2402c6d-b7c8-4fd1-86a5-2de595a34e39.jpg",
+      "SourceId": "VNpage",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "BasePath": "_content/VNpage",
+      "RelativePath": "Images/novelas/b2402c6d-b7c8-4fd1-86a5-2de595a34e39#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dz1slb7hjc",
+      "Integrity": "CerRCR6Eh09AF4eTYWAVG8DLUBJIGNKuAoAtvTAllVA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/novelas/b2402c6d-b7c8-4fd1-86a5-2de595a34e39.jpg"
+    },
+    {
+      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/novelas/DDLC.jpg",
+      "SourceId": "VNpage",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "BasePath": "_content/VNpage",
+      "RelativePath": "Images/novelas/DDLC#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6s2v1w7af5",
+      "Integrity": "1jAfFl8G0dQPNoVggFvnbpUTjR1Nqg26Xk7yx3ets7Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/novelas/DDLC.jpg"
+    },
+    {
+      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/novelas/GoForAPunch.jpg",
+      "SourceId": "VNpage",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "BasePath": "_content/VNpage",
+      "RelativePath": "Images/novelas/GoForAPunch#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ogic6s2p55",
+      "Integrity": "eP5nwbRdFQ5jDlg/pEgsTMIyZr2//zcag4tB0N3nj3E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/novelas/GoForAPunch.jpg"
+    },
+    {
+      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/novelas/HatofulBoyfriend.jpg",
+      "SourceId": "VNpage",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "BasePath": "_content/VNpage",
+      "RelativePath": "Images/novelas/HatofulBoyfriend#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7ek86q4y37",
+      "Integrity": "P0eELkwfb95TSy9X0l/t8Qne6DEVCHjNoabEKyETmXI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/novelas/HatofulBoyfriend.jpg"
+    },
+    {
+      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/novelas/KatawaShoujo.jpg",
+      "SourceId": "VNpage",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "BasePath": "_content/VNpage",
+      "RelativePath": "Images/novelas/KatawaShoujo#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w9h6608c16",
+      "Integrity": "DB2FfNvo5jKJJ9SGJ+vwTBNNUXi76r8tVWRIR8y6D+E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/novelas/KatawaShoujo.jpg"
+    },
+    {
+      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/novelas/MilkInside.jpg",
+      "SourceId": "VNpage",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "BasePath": "_content/VNpage",
+      "RelativePath": "Images/novelas/MilkInside#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dz1slb7hjc",
+      "Integrity": "CerRCR6Eh09AF4eTYWAVG8DLUBJIGNKuAoAtvTAllVA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/novelas/MilkInside.jpg"
+    },
+    {
+      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/novelas/MilkOutside.jpg",
+      "SourceId": "VNpage",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "BasePath": "_content/VNpage",
+      "RelativePath": "Images/novelas/MilkOutside#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wgfw9js7x0",
+      "Integrity": "UGuiCBYdZTJzMAvoYRAQUZbDnfbLE+dGPsjYfB/UnKI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/novelas/MilkOutside.jpg"
+    },
+    {
+      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/js/site.js",
+      "SourceId": "VNpage",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "BasePath": "_content/VNpage",
+      "RelativePath": "js/site#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fr7q2aak1r",
+      "Integrity": "y/Ngd8W21UpuCUhEqGbUKDEqFnNfTjAfb24GhJJGUyM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/site.js"
+    },
+    {
+      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "SourceId": "VNpage",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "BasePath": "_content/VNpage",
+      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "47otxtyo56",
+      "Integrity": "wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "SourceId": "VNpage",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "BasePath": "_content/VNpage",
+      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4v8eqarkd7",
+      "Integrity": "YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "SourceId": "VNpage",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "BasePath": "_content/VNpage",
+      "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l3n5xuwxn8",
+      "Integrity": "z8IfXovWVa6ZfuyRYTi3B7HSkLgycsAqlcn4IbjIcxA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "SourceId": "VNpage",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "BasePath": "_content/VNpage",
+      "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gcjdx5jb8l",
+      "Integrity": "0HeMWyQUbTbe7SGnSYbjj9+HVA0hKDmEUtbYoTKe+Bk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "SourceId": "VNpage",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "BasePath": "_content/VNpage",
+      "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "35gxhxa0gh",
+      "Integrity": "90Rlzuz8pIZK4g9o2I7nGK+9n5cU9Rbdt4GtxRO5arA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "SourceId": "VNpage",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "BasePath": "_content/VNpage",
+      "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pzqfkb6aqo",
+      "Integrity": "m0l81WDPiG7CcG7CDsTuZzvcGvyFmrQY5DLIxx3aRGw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "SourceId": "VNpage",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "BasePath": "_content/VNpage",
+      "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b7iojwaux1",
+      "Integrity": "JwUksNJ6/R07ZiLRoXbGeNrtlFZMFDKX4hemPiHOmCA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery-validation/LICENSE.md",
+      "SourceId": "VNpage",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "BasePath": "_content/VNpage",
+      "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xzw0cte36n",
+      "Integrity": "85iHjKszi4aWOL2sGurna/OsEbK4nabgtovBpkVzNEA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery/dist/jquery.js",
+      "SourceId": "VNpage",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "BasePath": "_content/VNpage",
+      "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fwhahm2icz",
+      "Integrity": "H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery/dist/jquery.min.js",
+      "SourceId": "VNpage",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "BasePath": "_content/VNpage",
+      "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dd6z7egasc",
+      "Integrity": "/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery/dist/jquery.min.map",
+      "SourceId": "VNpage",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "BasePath": "_content/VNpage",
+      "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5pze98is44",
+      "Integrity": "OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery/LICENSE.txt",
+      "SourceId": "VNpage",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "BasePath": "_content/VNpage",
+      "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jfsiqqwiad",
+      "Integrity": "kR0ThRjy07+hq4p08nfdkjN+pI94Gj2rK5lyE0buITU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/jquery/LICENSE.txt"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/Admin.a890trt4p5.css",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/css/Admin.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1404"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Rnj+9AJm1FTcXClWZry+7+jUL9h2UsLuHJdJZzyOV74=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Nov 2025 20:11:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a890trt4p5"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Admin.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Rnj+9AJm1FTcXClWZry+7+jUL9h2UsLuHJdJZzyOV74="
+        }
+      ]
+    },
+    {
+      "Route": "css/Admin.css",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/css/Admin.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1404"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Rnj+9AJm1FTcXClWZry+7+jUL9h2UsLuHJdJZzyOV74=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Nov 2025 20:11:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Rnj+9AJm1FTcXClWZry+7+jUL9h2UsLuHJdJZzyOV74="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap.css",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/css/bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "281545"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6Sf2Z4ylhu2qHIGNgZWsJ4nk2tgOdV+k5V94JguAed4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Nov 2025 20:20:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6Sf2Z4ylhu2qHIGNgZWsJ4nk2tgOdV+k5V94JguAed4="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap.j1uom91mw7.css",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/css/bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "281545"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6Sf2Z4ylhu2qHIGNgZWsJ4nk2tgOdV+k5V94JguAed4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Nov 2025 20:20:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j1uom91mw7"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6Sf2Z4ylhu2qHIGNgZWsJ4nk2tgOdV+k5V94JguAed4="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/css/site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5185"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BRpc5xXYpHpwCLraDBs1SZVYVviYID18+ylJRsvaCYE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Nov 2025 21:01:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BRpc5xXYpHpwCLraDBs1SZVYVviYID18+ylJRsvaCYE="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.ty28lxgc1s.css",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/css/site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5185"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BRpc5xXYpHpwCLraDBs1SZVYVviYID18+ylJRsvaCYE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Nov 2025 21:01:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ty28lxgc1s"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BRpc5xXYpHpwCLraDBs1SZVYVviYID18+ylJRsvaCYE="
+        }
+      ]
+    },
+    {
+      "Route": "data/novelas.json",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/data/novelas.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1962"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W00drueZ8haYov4O/NdptRpvSSXVvX9r9NHb2MpmH9Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Nov 2025 21:07:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-W00drueZ8haYov4O/NdptRpvSSXVvX9r9NHb2MpmH9Y="
+        }
+      ]
+    },
+    {
+      "Route": "data/novelas.lwp6i21df9.json",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/data/novelas.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1962"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W00drueZ8haYov4O/NdptRpvSSXVvX9r9NHb2MpmH9Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Nov 2025 21:07:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lwp6i21df9"
+        },
+        {
+          "Name": "label",
+          "Value": "data/novelas.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-W00drueZ8haYov4O/NdptRpvSSXVvX9r9NHb2MpmH9Y="
+        }
+      ]
+    },
+    {
+      "Route": "data/reseñas_usuarios.json",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/data/reseñas_usuarios.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "259"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EYTxHgAiyTvrWnZKUsYmlc2Yv3EDyZ+pokyhwgqdvgI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Nov 2025 16:55:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EYTxHgAiyTvrWnZKUsYmlc2Yv3EDyZ+pokyhwgqdvgI="
+        }
+      ]
+    },
+    {
+      "Route": "data/reseñas_usuarios.rdwg40nu6w.json",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/data/reseñas_usuarios.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "259"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EYTxHgAiyTvrWnZKUsYmlc2Yv3EDyZ+pokyhwgqdvgI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Nov 2025 16:55:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rdwg40nu6w"
+        },
+        {
+          "Name": "label",
+          "Value": "data/reseñas_usuarios.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EYTxHgAiyTvrWnZKUsYmlc2Yv3EDyZ+pokyhwgqdvgI="
+        }
+      ]
+    },
+    {
+      "Route": "favico.ico",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/favico.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "87120"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OowOGs/grj+aEDuvwxP2DMndrc3lSBfTZPGNoo6JnRE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 20:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OowOGs/grj+aEDuvwxP2DMndrc3lSBfTZPGNoo6JnRE="
+        }
+      ]
+    },
+    {
+      "Route": "favico.umtfc14n8n.ico",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/favico.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "87120"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OowOGs/grj+aEDuvwxP2DMndrc3lSBfTZPGNoo6JnRE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 20:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "umtfc14n8n"
+        },
+        {
+          "Name": "label",
+          "Value": "favico.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OowOGs/grj+aEDuvwxP2DMndrc3lSBfTZPGNoo6JnRE="
+        }
+      ]
+    },
+    {
+      "Route": "Images/fondo.9zitsiwp0k.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/fondo.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45640"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VWmoklaFyyYXBwWAcMkY/0CDLNAlzRFqkJT3iWHG2Ps=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 20:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9zitsiwp0k"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/fondo.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VWmoklaFyyYXBwWAcMkY/0CDLNAlzRFqkJT3iWHG2Ps="
+        }
+      ]
+    },
+    {
+      "Route": "Images/fondo.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/fondo.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45640"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VWmoklaFyyYXBwWAcMkY/0CDLNAlzRFqkJT3iWHG2Ps=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 20:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VWmoklaFyyYXBwWAcMkY/0CDLNAlzRFqkJT3iWHG2Ps="
+        }
+      ]
+    },
+    {
+      "Route": "Images/logo.mm8tmb6ihw.png",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "195031"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Em1mx3/d1neI/gmXxXdK+HinZzYlhbzZeDfuqKDl4t4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Oct 2025 21:08:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mm8tmb6ihw"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/logo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Em1mx3/d1neI/gmXxXdK+HinZzYlhbzZeDfuqKDl4t4="
+        }
+      ]
+    },
+    {
+      "Route": "Images/logo.png",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "195031"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Em1mx3/d1neI/gmXxXdK+HinZzYlhbzZeDfuqKDl4t4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Oct 2025 21:08:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Em1mx3/d1neI/gmXxXdK+HinZzYlhbzZeDfuqKDl4t4="
+        }
+      ]
+    },
+    {
+      "Route": "Images/logobanner.akp1ptgwad.png",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/logobanner.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "282006"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qoR93UyFWfgr9eEP9d5Q7KaUfzOirNL2R3wPHW7Cb84=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Nov 2025 17:16:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "akp1ptgwad"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/logobanner.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qoR93UyFWfgr9eEP9d5Q7KaUfzOirNL2R3wPHW7Cb84="
+        }
+      ]
+    },
+    {
+      "Route": "Images/logobanner.png",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/logobanner.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "282006"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qoR93UyFWfgr9eEP9d5Q7KaUfzOirNL2R3wPHW7Cb84=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Nov 2025 17:16:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qoR93UyFWfgr9eEP9d5Q7KaUfzOirNL2R3wPHW7Cb84="
+        }
+      ]
+    },
+    {
+      "Route": "Images/novelas/a77f9a37-dba6-4449-b9c9-3a957092688e.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/novelas/a77f9a37-dba6-4449-b9c9-3a957092688e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UGuiCBYdZTJzMAvoYRAQUZbDnfbLE+dGPsjYfB/UnKI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Nov 2025 19:37:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UGuiCBYdZTJzMAvoYRAQUZbDnfbLE+dGPsjYfB/UnKI="
+        }
+      ]
+    },
+    {
+      "Route": "Images/novelas/a77f9a37-dba6-4449-b9c9-3a957092688e.wgfw9js7x0.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/novelas/a77f9a37-dba6-4449-b9c9-3a957092688e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UGuiCBYdZTJzMAvoYRAQUZbDnfbLE+dGPsjYfB/UnKI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Nov 2025 19:37:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wgfw9js7x0"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/novelas/a77f9a37-dba6-4449-b9c9-3a957092688e.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UGuiCBYdZTJzMAvoYRAQUZbDnfbLE+dGPsjYfB/UnKI="
+        }
+      ]
+    },
+    {
+      "Route": "Images/novelas/b2402c6d-b7c8-4fd1-86a5-2de595a34e39.dz1slb7hjc.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/novelas/b2402c6d-b7c8-4fd1-86a5-2de595a34e39.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8003"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CerRCR6Eh09AF4eTYWAVG8DLUBJIGNKuAoAtvTAllVA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Nov 2025 17:13:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dz1slb7hjc"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/novelas/b2402c6d-b7c8-4fd1-86a5-2de595a34e39.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CerRCR6Eh09AF4eTYWAVG8DLUBJIGNKuAoAtvTAllVA="
+        }
+      ]
+    },
+    {
+      "Route": "Images/novelas/b2402c6d-b7c8-4fd1-86a5-2de595a34e39.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/novelas/b2402c6d-b7c8-4fd1-86a5-2de595a34e39.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8003"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CerRCR6Eh09AF4eTYWAVG8DLUBJIGNKuAoAtvTAllVA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Nov 2025 17:13:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CerRCR6Eh09AF4eTYWAVG8DLUBJIGNKuAoAtvTAllVA="
+        }
+      ]
+    },
+    {
+      "Route": "Images/novelas/DDLC.6s2v1w7af5.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/novelas/DDLC.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "93510"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1jAfFl8G0dQPNoVggFvnbpUTjR1Nqg26Xk7yx3ets7Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Nov 2025 21:01:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6s2v1w7af5"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/novelas/DDLC.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1jAfFl8G0dQPNoVggFvnbpUTjR1Nqg26Xk7yx3ets7Q="
+        }
+      ]
+    },
+    {
+      "Route": "Images/novelas/DDLC.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/novelas/DDLC.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "93510"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1jAfFl8G0dQPNoVggFvnbpUTjR1Nqg26Xk7yx3ets7Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Nov 2025 21:01:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1jAfFl8G0dQPNoVggFvnbpUTjR1Nqg26Xk7yx3ets7Q="
+        }
+      ]
+    },
+    {
+      "Route": "Images/novelas/GoForAPunch.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/novelas/GoForAPunch.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6339"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eP5nwbRdFQ5jDlg/pEgsTMIyZr2//zcag4tB0N3nj3E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 20:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eP5nwbRdFQ5jDlg/pEgsTMIyZr2//zcag4tB0N3nj3E="
+        }
+      ]
+    },
+    {
+      "Route": "Images/novelas/GoForAPunch.ogic6s2p55.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/novelas/GoForAPunch.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6339"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eP5nwbRdFQ5jDlg/pEgsTMIyZr2//zcag4tB0N3nj3E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 20:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ogic6s2p55"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/novelas/GoForAPunch.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eP5nwbRdFQ5jDlg/pEgsTMIyZr2//zcag4tB0N3nj3E="
+        }
+      ]
+    },
+    {
+      "Route": "Images/novelas/HatofulBoyfriend.7ek86q4y37.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/novelas/HatofulBoyfriend.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "159994"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P0eELkwfb95TSy9X0l/t8Qne6DEVCHjNoabEKyETmXI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 21:01:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7ek86q4y37"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/novelas/HatofulBoyfriend.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-P0eELkwfb95TSy9X0l/t8Qne6DEVCHjNoabEKyETmXI="
+        }
+      ]
+    },
+    {
+      "Route": "Images/novelas/HatofulBoyfriend.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/novelas/HatofulBoyfriend.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "159994"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P0eELkwfb95TSy9X0l/t8Qne6DEVCHjNoabEKyETmXI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 21:01:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-P0eELkwfb95TSy9X0l/t8Qne6DEVCHjNoabEKyETmXI="
+        }
+      ]
+    },
+    {
+      "Route": "Images/novelas/KatawaShoujo.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/novelas/KatawaShoujo.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "99944"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DB2FfNvo5jKJJ9SGJ+vwTBNNUXi76r8tVWRIR8y6D+E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 21:10:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DB2FfNvo5jKJJ9SGJ+vwTBNNUXi76r8tVWRIR8y6D+E="
+        }
+      ]
+    },
+    {
+      "Route": "Images/novelas/KatawaShoujo.w9h6608c16.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/novelas/KatawaShoujo.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "99944"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DB2FfNvo5jKJJ9SGJ+vwTBNNUXi76r8tVWRIR8y6D+E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 21:10:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w9h6608c16"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/novelas/KatawaShoujo.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DB2FfNvo5jKJJ9SGJ+vwTBNNUXi76r8tVWRIR8y6D+E="
+        }
+      ]
+    },
+    {
+      "Route": "Images/novelas/MilkInside.dz1slb7hjc.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/novelas/MilkInside.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8003"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CerRCR6Eh09AF4eTYWAVG8DLUBJIGNKuAoAtvTAllVA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 20:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dz1slb7hjc"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/novelas/MilkInside.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CerRCR6Eh09AF4eTYWAVG8DLUBJIGNKuAoAtvTAllVA="
+        }
+      ]
+    },
+    {
+      "Route": "Images/novelas/MilkInside.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/novelas/MilkInside.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8003"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CerRCR6Eh09AF4eTYWAVG8DLUBJIGNKuAoAtvTAllVA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 20:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CerRCR6Eh09AF4eTYWAVG8DLUBJIGNKuAoAtvTAllVA="
+        }
+      ]
+    },
+    {
+      "Route": "Images/novelas/MilkOutside.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/novelas/MilkOutside.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UGuiCBYdZTJzMAvoYRAQUZbDnfbLE+dGPsjYfB/UnKI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 20:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UGuiCBYdZTJzMAvoYRAQUZbDnfbLE+dGPsjYfB/UnKI="
+        }
+      ]
+    },
+    {
+      "Route": "Images/novelas/MilkOutside.wgfw9js7x0.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/novelas/MilkOutside.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UGuiCBYdZTJzMAvoYRAQUZbDnfbLE+dGPsjYfB/UnKI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 20:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wgfw9js7x0"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/novelas/MilkOutside.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UGuiCBYdZTJzMAvoYRAQUZbDnfbLE+dGPsjYfB/UnKI="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.fr7q2aak1r.js",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/js/site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "227"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y/Ngd8W21UpuCUhEqGbUKDEqFnNfTjAfb24GhJJGUyM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 20:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fr7q2aak1r"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-y/Ngd8W21UpuCUhEqGbUKDEqFnNfTjAfb24GhJJGUyM="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/js/site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "227"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y/Ngd8W21UpuCUhEqGbUKDEqFnNfTjAfb24GhJJGUyM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 20:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-y/Ngd8W21UpuCUhEqGbUKDEqFnNfTjAfb24GhJJGUyM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.47otxtyo56.js",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19385"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 20:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "47otxtyo56"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19385"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 20:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.4v8eqarkd7.js",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5824"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 20:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4v8eqarkd7"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5824"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 20:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/LICENSE.l3n5xuwxn8.txt",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1116"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8IfXovWVa6ZfuyRYTi3B7HSkLgycsAqlcn4IbjIcxA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 20:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l3n5xuwxn8"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation-unobtrusive/LICENSE.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8IfXovWVa6ZfuyRYTi3B7HSkLgycsAqlcn4IbjIcxA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1116"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8IfXovWVa6ZfuyRYTi3B7HSkLgycsAqlcn4IbjIcxA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 20:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8IfXovWVa6ZfuyRYTi3B7HSkLgycsAqlcn4IbjIcxA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/additional-methods.gcjdx5jb8l.js",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "51466"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0HeMWyQUbTbe7SGnSYbjj9+HVA0hKDmEUtbYoTKe+Bk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 20:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gcjdx5jb8l"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation/dist/additional-methods.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0HeMWyQUbTbe7SGnSYbjj9+HVA0hKDmEUtbYoTKe+Bk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/additional-methods.js",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "51466"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0HeMWyQUbTbe7SGnSYbjj9+HVA0hKDmEUtbYoTKe+Bk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 20:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0HeMWyQUbTbe7SGnSYbjj9+HVA0hKDmEUtbYoTKe+Bk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/additional-methods.min.35gxhxa0gh.js",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22174"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"90Rlzuz8pIZK4g9o2I7nGK+9n5cU9Rbdt4GtxRO5arA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 20:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "35gxhxa0gh"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation/dist/additional-methods.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-90Rlzuz8pIZK4g9o2I7nGK+9n5cU9Rbdt4GtxRO5arA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/additional-methods.min.js",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22174"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"90Rlzuz8pIZK4g9o2I7nGK+9n5cU9Rbdt4GtxRO5arA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 20:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-90Rlzuz8pIZK4g9o2I7nGK+9n5cU9Rbdt4GtxRO5arA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/jquery.validate.js",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "51171"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"m0l81WDPiG7CcG7CDsTuZzvcGvyFmrQY5DLIxx3aRGw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 20:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-m0l81WDPiG7CcG7CDsTuZzvcGvyFmrQY5DLIxx3aRGw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/jquery.validate.min.b7iojwaux1.js",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24601"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JwUksNJ6/R07ZiLRoXbGeNrtlFZMFDKX4hemPiHOmCA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 20:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b7iojwaux1"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation/dist/jquery.validate.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JwUksNJ6/R07ZiLRoXbGeNrtlFZMFDKX4hemPiHOmCA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24601"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JwUksNJ6/R07ZiLRoXbGeNrtlFZMFDKX4hemPiHOmCA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 20:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JwUksNJ6/R07ZiLRoXbGeNrtlFZMFDKX4hemPiHOmCA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/jquery.validate.pzqfkb6aqo.js",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "51171"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"m0l81WDPiG7CcG7CDsTuZzvcGvyFmrQY5DLIxx3aRGw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 20:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pzqfkb6aqo"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation/dist/jquery.validate.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-m0l81WDPiG7CcG7CDsTuZzvcGvyFmrQY5DLIxx3aRGw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/LICENSE.md",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery-validation/LICENSE.md",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1095"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/markdown"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"85iHjKszi4aWOL2sGurna/OsEbK4nabgtovBpkVzNEA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 20:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-85iHjKszi4aWOL2sGurna/OsEbK4nabgtovBpkVzNEA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/LICENSE.xzw0cte36n.md",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery-validation/LICENSE.md",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1095"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/markdown"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"85iHjKszi4aWOL2sGurna/OsEbK4nabgtovBpkVzNEA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 20:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xzw0cte36n"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation/LICENSE.md"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-85iHjKszi4aWOL2sGurna/OsEbK4nabgtovBpkVzNEA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.fwhahm2icz.js",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery/dist/jquery.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "288580"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 20:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fwhahm2icz"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/dist/jquery.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.js",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery/dist/jquery.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "288580"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 20:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.min.5pze98is44.map",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery/dist/jquery.min.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "137972"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 20:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5pze98is44"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/dist/jquery.min.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.min.dd6z7egasc.js",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery/dist/jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89501"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 20:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dd6z7egasc"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/dist/jquery.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.min.js",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery/dist/jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89501"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 20:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.min.map",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery/dist/jquery.min.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "137972"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 20:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/LICENSE.jfsiqqwiad.txt",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery/LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1097"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kR0ThRjy07+hq4p08nfdkjN+pI94Gj2rK5lyE0buITU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 20:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jfsiqqwiad"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/LICENSE.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kR0ThRjy07+hq4p08nfdkjN+pI94Gj2rK5lyE0buITU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/LICENSE.txt",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery/LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1097"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kR0ThRjy07+hq4p08nfdkjN+pI94Gj2rK5lyE0buITU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 20:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kR0ThRjy07+hq4p08nfdkjN+pI94Gj2rK5lyE0buITU="
+        }
+      ]
+    },
+    {
+      "Route": "VNpage.bundle.scp.css",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/obj/Debug/net8.0/scopedcss/projectbundle/VNpage.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2309"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kbAZudWypKCnRK8y3OqvxsH1ihJN3FsO4h8KpGALh8Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 03 Dec 2025 19:00:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kbAZudWypKCnRK8y3OqvxsH1ihJN3FsO4h8KpGALh8Q="
+        }
+      ]
+    },
+    {
+      "Route": "VNpage.styles.css",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/obj/Debug/net8.0/scopedcss/bundle/VNpage.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2309"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kbAZudWypKCnRK8y3OqvxsH1ihJN3FsO4h8KpGALh8Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 03 Dec 2025 19:00:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kbAZudWypKCnRK8y3OqvxsH1ihJN3FsO4h8KpGALh8Q="
+        }
+      ]
+    },
+    {
+      "Route": "VNpage.vonu8x19tm.bundle.scp.css",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/obj/Debug/net8.0/scopedcss/projectbundle/VNpage.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2309"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kbAZudWypKCnRK8y3OqvxsH1ihJN3FsO4h8KpGALh8Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 03 Dec 2025 19:00:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vonu8x19tm"
+        },
+        {
+          "Name": "label",
+          "Value": "VNpage.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kbAZudWypKCnRK8y3OqvxsH1ihJN3FsO4h8KpGALh8Q="
+        }
+      ]
+    },
+    {
+      "Route": "VNpage.vonu8x19tm.styles.css",
+      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/obj/Debug/net8.0/scopedcss/bundle/VNpage.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2309"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kbAZudWypKCnRK8y3OqvxsH1ihJN3FsO4h8KpGALh8Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 03 Dec 2025 19:00:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vonu8x19tm"
+        },
+        {
+          "Name": "label",
+          "Value": "VNpage.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kbAZudWypKCnRK8y3OqvxsH1ihJN3FsO4h8KpGALh8Q="
+        }
+      ]
+    }
+  ]
+}

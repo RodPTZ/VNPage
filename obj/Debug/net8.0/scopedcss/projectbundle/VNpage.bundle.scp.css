@@ -1,0 +1,114 @@
+/* _content/VNpage/Pages/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-nz1run3yw7] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-nz1run3yw7] {
+  color: #0077cc;
+}
+
+.btn-primary[b-nz1run3yw7] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-nz1run3yw7], .nav-pills .show > .nav-link[b-nz1run3yw7] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-nz1run3yw7] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-nz1run3yw7] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-nz1run3yw7] {
+  box-shadow: 0 .25rem .75rem   #1d041c ;
+}
+
+button.accept-policy[b-nz1run3yw7] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-nz1run3yw7] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+display-4[b-nz1run3yw7] {
+  font-family: "Press Start 2P", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+.navbar.container.logo[b-nz1run3yw7]
+{
+  display: flex;
+  justify-content: center;
+}
+/* NAVIGATION */
+.navbar[b-nz1run3yw7] {
+    background-color: var(--tostado-oscuro);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 3rem;
+}
+
+/* Bloque izquierdo con logo + título */
+.nav-left[b-nz1run3yw7] {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+/* Imagen del logo */
+.logo[b-nz1run3yw7] {
+    width: 60px; /* ajusta el tamaño */
+    height: auto;
+    object-fit: contain;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+
+.logo:hover[b-nz1run3yw7] {
+    transform: rotate(-5deg) scale(1.05);
+}
+
+/* Título */
+.site-title[b-nz1run3yw7] {
+    font-size: 1.1rem;
+    color: var(--crema-texto);
+    margin: 0;
+    letter-spacing: 1px;
+}
+
+/* Enlaces */
+.nav-links[b-nz1run3yw7] {
+    list-style: none;
+    display: flex;
+    gap: 2rem;
+    margin: 0;
+}
+
+.nav-links a[b-nz1run3yw7] {
+    color: var(--crema-texto);
+    text-decoration: none;
+    font-size: 0.85rem;
+    transition: color 0.3s ease;
+}
+
+.nav-links a:hover[b-nz1run3yw7] {
+    color: #ffffff;
+}

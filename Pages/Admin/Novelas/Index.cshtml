@@ -1,0 +1,36 @@
+@page
+@model VNpage.Pages.Admin.Novelas.IndexModel
+@{
+    Layout = "_AdminLayout";
+    ViewData["Title"] = "Novelas Visuales";
+}
+
+<div class="card">
+    <div style="display:flex;justify-content:space-between;align-items:center;">
+        <h3>Novelas registradas</h3>
+        <a class="btn" href="/Admin/Novelas/Create" style="background:#5e3b1e;color:#fff;padding:0.5rem 0.8rem;border-radius:6px;text-decoration:none;">+ Nueva</a>
+    </div>
+
+    <table style="width:100%;margin-top:1rem;border-collapse:collapse;">
+        <thead style="text-align:left;color:#cbb49c;">
+            <tr><th>ID</th><th>Titulo</th><th>Puntaje</th><th>Acciones</th></tr>
+        </thead>
+        <tbody>
+            @foreach (var n in Model.Novelas)
+            {
+                <tr style="border-top:1px solid rgba(255,255,255,0.03);">
+                    <td>@n.Id</td>
+                    <td>@n.Titulo</td>
+                    <td>@n.Puntaje</td>
+                    <td>
+                        <a href="/Detalles/@n.Id" style="margin-right:0.6rem;color:#cbb49c;">Ver</a>
+                        <a href="/Admin/Novelas/Edit?id=@n.Id" style="margin-right:0.6rem;color:#cbb49c;">Editar</a>
+                        <form method="post" asp-page-handler="Delete" asp-route-id="@n.Id" style="display:inline;">
+                            <button type="submit" style="background:transparent;border:none;color:#ff8276;cursor:pointer;">Eliminar</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

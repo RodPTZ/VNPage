@@ -1,0 +1,27 @@
+@page
+@model VNpage.Pages.Account.LoginModel
+@{
+    ViewData["Title"] = "Admin Login";
+    Layout = "_Layout";
+}
+
+<section style="max-width:420px;margin:5rem auto;padding:2rem;background:#2b1a0f;border-radius:10px;color:#f4e7d3;">
+    <h2 style="text-align:center;margin-bottom:1rem;">Admin Login</h2>
+
+    <form method="post" novalidate>
+        <label>Usuario</label>
+        <input asp-for="Username" required style="width:100%;padding:0.6rem;margin:0.35rem 0;border-radius:6px;background:#1f130c;color:#f4e7d3;border:none;" />
+
+        <label>Contraseña</label>
+        <input asp-for="Password" type="password" required style="width:100%;padding:0.6rem;margin:0.35rem 0;border-radius:6px;background:#1f130c;color:#f4e7d3;border:none;" />
+
+        <div style="margin-top:1rem;text-align:center;">
+            <button type="submit" style="padding:0.6rem 1rem;border-radius:8px;background:#5e3b1e;color:#fff3e0;border:none;cursor:pointer;">Entrar</button>
+        </div>
+
+        @if (!string.IsNullOrEmpty(Model.ErrorMessage))
+        {
+            <p style="color:#ffbaba;margin-top:0.8rem;text-align:center;">@Model.ErrorMessage</p>
+        }
+    </form>
+</section>
