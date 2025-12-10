@@ -1,0 +1,307 @@
+
+
+:root {
+    --cafe-profundo: #1C0E05;
+    --tostado-oscuro: #3A1F0B;
+    --crema-texto: #CBB49C;
+}
+
+body {
+    margin: 0;
+    font-family: "Press Start 2P", sans-serif;
+    background-color: var(--cafe-profundo);
+    color: var(--crema-texto);
+}
+
+/* Nav */
+.navbar {
+    background-color: var(--tostado-oscuro);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 1.5rem;
+    margin: 0;
+}
+
+.nav-links a {
+    color: var(--crema-texto);
+    text-decoration: none;
+    font-size: 0.85rem;
+    transition: color 0.3s ease;
+}
+
+.nav-links a:hover {
+    color: #ffffff;
+}
+
+/* Hero */
+.hero {
+    background: radial-gradient(circle at center, #3A1F0B 0%, #1C0E05 100%);
+    height: 70vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.hero .overlay {
+    background: rgba(0, 0, 0, 0.55);
+    padding: 2rem;
+    border-radius: 12px;
+}
+
+.btn-primary {
+    background-color: var(--crema-texto);
+    color: var(--tostado-oscuro);
+    padding: 0.75rem 1.5rem;
+    border-radius: 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.btn-primary:hover {
+    background-color: #fff;
+    color: var(--cafe-profundo);
+}
+
+/* Reseñas */
+.reviews {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 2rem;
+    padding: 2rem;
+}
+
+.review-card {
+    background-color: var(--tostado-oscuro);
+    border-radius: 10px;
+    padding: 1.5rem;
+    width: 250px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+    transition: transform 0.3s ease;
+}
+
+.review-card:hover {
+    transform: translateY(-5px);
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    font-size: 0.8rem;
+    opacity: 0.8;
+    background-color: var(--tostado-oscuro);
+}
+h1
+{
+    font-size: 50px;
+}
+
+
+/*-----------*/
+.reviews-page {
+    padding: 4rem 2rem;
+    text-align: center;
+}
+
+.reviews-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+.review-card {
+    background-color: #2b1a0f;
+    border-radius: 12px;
+    padding: 2rem;
+    text-align: left;
+    box-shadow: 0 0 10px #000;
+    transition: transform 0.2s;
+}
+
+.review-card:hover {
+    transform: scale(1.08);
+}
+
+.review-img {
+    width: 100%;
+    border-radius: 8px;
+}
+
+.tags {
+    margin-top: 0.5rem;
+}
+
+.tag {
+    background-color: #5e3b1e;
+    color: #fff3e0;
+    padding: 0.3rem 0.6rem;
+    border-radius: 6px;
+    font-size: 0.7rem;
+    margin-right: 0.5rem;
+}
+
+/* Detalles de la novela */
+.details-page {
+    padding: 4rem 2rem;
+    display: flex;
+    justify-content: center;
+    color: #f4e7d3;
+}
+
+.details-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #2b1a0f;
+    border-radius: 12px;
+    max-width: 900px;
+    padding: 2rem;
+    box-shadow: 0 0 10px #000;
+}
+
+.details-img {
+    width: 100%;
+    max-width: 600px;
+    border-radius: 10px;
+    margin-bottom: 1.5rem;
+}
+
+.details-info {
+    text-align: center;
+}
+
+.details-desc {
+    font-size: 1.1rem;
+    margin: 1rem 0;
+}
+
+.btn-back {
+    display: inline-block;
+    margin-top: 1.5rem;
+    padding: 0.7rem 1.2rem;
+    background-color: #5e3b1e;
+    color: #fff3e0;
+    border-radius: 8px;
+    text-decoration: none;
+    transition: background 0.3s;
+}
+
+.btn-back:hover {
+    background-color: #734f2c;
+}
+
+/* Formulario de reseña */
+.user-reviews {
+    margin: 1rem 0;
+    text-align: left;
+}
+
+.review-user {
+    background-color: #3b2416;
+    padding: 1rem;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+}
+
+.review-form {
+    display: flex;
+    flex-direction: column;
+    gap: 0.8rem;
+    margin-top: 1rem;
+}
+
+.review-form input, .review-form textarea, .review-form select {
+    background-color: #1f130c;
+    color: #f4e7d3;
+    border: none;
+    padding: 0.7rem;
+    border-radius: 8px;
+}
+
+.review-form button {
+    background-color: #5e3b1e;
+    color: #fff3e0;
+    border: none;
+    padding: 0.8rem;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.review-form button:hover {
+    background-color: #734f2c;
+}
+
+.recommendations {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.rec-card {
+    background-color: #3b2416;
+    padding: 1rem;
+    border-radius: 10px;
+    width: 300px;
+    text-align: center;
+}
+
+/*______*/
+
+form {
+    max-width: 300px;
+    margin: 3rem auto;
+    background-color: #1c1c1c;
+    padding: 1.5rem;
+    border-radius: 10px;
+    box-shadow: 0 0 15px #3b2a1a;
+    font-family: 'Press Start 2P', monospace;
+    color: #f2e1c2;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-size: 0.7rem;
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    background-color: #2b1a10;
+    border: 1px solid #6b4e3d;
+    color: #f2e1c2;
+}
+
+button {
+    background-color: #7e4b1f;
+    border: none;
+    padding: 10px;
+    width: 100%;
+    cursor: pointer;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 0.8rem;
+}
+
+button:hover {
+    background-color: #a85b1f;
+}
+
+.error {
+    color: #ff8080;
+    font-size: 0.7rem;
+    text-align: center;
+    margin-top: 10px;
+}
+

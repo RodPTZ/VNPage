@@ -4,38 +4,34 @@ using System.ComponentModel.DataAnnotations;
 
 namespace VNpage.Models
 {
-    public class NovelaVisual
-    {
-        public int Id { get; set; }
+public class NovelaVisual
+{
+    public int Id { get; set; }
 
-        [Required, MaxLength(150)]
-        public string Titulo { get; set; } = string.Empty;
+    [Required, MaxLength(150)]
+    public string Titulo { get; set; } = string.Empty;
 
-        [MaxLength(100)]
-        public string Desarrollador { get; set; } = string.Empty;
+    [MaxLength(100)]
+    public string Desarrollador { get; set; } = string.Empty;
 
-        [MaxLength(2000)]
-        public string Descripcion { get; set; } = string.Empty;
+    [MaxLength(2000)]
+    public string Descripcion { get; set; } = string.Empty;
 
-        public string ImagenRuta { get; set; } = "/images/default_vn.png";
+    public string ImagenRuta { get; set; } = "/images/default_vn.png";
 
-        public DateTime FechaLanzamiento { get; set; }
+    public DateTime FechaLanzamiento { get; set; }
 
-        [MaxLength(100)]
+    [MaxLength(100)]
+    public string Genero { get; set; } = string.Empty;
 
-        public string Genero { get; set; } = string.Empty;
+    public string Tags { get; set; } = string.Empty;
 
-        public string Tags { get; set; } = string.Empty;
+    public double Puntaje { get; set; } = 0;
 
-        public double Puntaje { get; set; } = 0;
+    public ICollection<Resena>? Resenas { get; set; }
+    public ICollection<Comentario>? Comentarios { get; set; }
+}
 
-        public ICollection<Resena>? Resenas { get; set; }
-
-        public ICollection<Comentario>? Comentarios { get; set; }
-
-        public NovelaVisual Novela {get; set;} = default!;
-
-    }
 }
 
 

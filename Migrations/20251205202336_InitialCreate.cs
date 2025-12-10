@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace VNpage.Migrations
 {
     /// <inheritdoc />
-    public partial class InitIdentity : Migration
+    public partial class InitialCreate : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -64,18 +64,11 @@ namespace VNpage.Migrations
                     FechaLanzamiento = table.Column<DateTime>(type: "TEXT", nullable: false),
                     Genero = table.Column<string>(type: "TEXT", maxLength: 100, nullable: false),
                     Tags = table.Column<string>(type: "TEXT", nullable: false),
-                    Puntaje = table.Column<double>(type: "REAL", nullable: false),
-                    NovelaId = table.Column<int>(type: "INTEGER", nullable: false)
+                    Puntaje = table.Column<double>(type: "REAL", nullable: false)
                 },
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_Novelas", x => x.Id);
-                    table.ForeignKey(
-                        name: "FK_Novelas_Novelas_NovelaId",
-                        column: x => x.NovelaId,
-                        principalTable: "Novelas",
-                        principalColumn: "Id",
-                        onDelete: ReferentialAction.Cascade);
                 });
 
             migrationBuilder.CreateTable(
@@ -288,11 +281,6 @@ namespace VNpage.Migrations
                 name: "IX_Comentarios_UserId",
                 table: "Comentarios",
                 column: "UserId");
-
-            migrationBuilder.CreateIndex(
-                name: "IX_Novelas_NovelaId",
-                table: "Novelas",
-                column: "NovelaId");
 
             migrationBuilder.CreateIndex(
                 name: "IX_Resenas_NovelaVisualId",

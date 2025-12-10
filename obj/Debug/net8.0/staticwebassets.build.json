@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "puVkm/qUyyeCl5FXfoJMsMHhsr0ef6fAfMjsP1PwQBM=",
+  "Hash": "+CSLKrCZLtCvLfJiVRawmeI0wpRqLAoxCz27ng6jXEo=",
   "Source": "VNpage",
   "BasePath": "_content/VNpage",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "VNpage/wwwroot",
       "Source": "VNpage",
-      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/VNPage/wwwroot/",
       "BasePath": "_content/VNpage",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/obj/Debug/net8.0/scopedcss/bundle/VNpage.styles.css",
+      "Identity": "/home/et12alumno/Escritorio/VNPage/obj/Debug/net8.0/scopedcss/bundle/VNpage.styles.css",
       "SourceId": "VNpage",
       "SourceType": "Computed",
-      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/obj/Debug/net8.0/scopedcss/bundle/",
+      "ContentRoot": "/home/et12alumno/Escritorio/VNPage/obj/Debug/net8.0/scopedcss/bundle/",
       "BasePath": "_content/VNpage",
       "RelativePath": "VNpage#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -35,13 +35,13 @@
       "Integrity": "kbAZudWypKCnRK8y3OqvxsH1ihJN3FsO4h8KpGALh8Q=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/obj/Debug/net8.0/scopedcss/bundle/VNpage.styles.css"
+      "OriginalItemSpec": "/home/et12alumno/Escritorio/VNPage/obj/Debug/net8.0/scopedcss/bundle/VNpage.styles.css"
     },
     {
-      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/obj/Debug/net8.0/scopedcss/projectbundle/VNpage.bundle.scp.css",
+      "Identity": "/home/et12alumno/Escritorio/VNPage/obj/Debug/net8.0/scopedcss/projectbundle/VNpage.bundle.scp.css",
       "SourceId": "VNpage",
       "SourceType": "Computed",
-      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/obj/Debug/net8.0/scopedcss/projectbundle/",
+      "ContentRoot": "/home/et12alumno/Escritorio/VNPage/obj/Debug/net8.0/scopedcss/projectbundle/",
       "BasePath": "_content/VNpage",
       "RelativePath": "VNpage#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -56,13 +56,13 @@
       "Integrity": "kbAZudWypKCnRK8y3OqvxsH1ihJN3FsO4h8KpGALh8Q=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/obj/Debug/net8.0/scopedcss/projectbundle/VNpage.bundle.scp.css"
+      "OriginalItemSpec": "/home/et12alumno/Escritorio/VNPage/obj/Debug/net8.0/scopedcss/projectbundle/VNpage.bundle.scp.css"
     },
     {
-      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/css/Admin.css",
+      "Identity": "/home/et12alumno/Escritorio/VNPage/wwwroot/css/Admin.css",
       "SourceId": "VNpage",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/VNPage/wwwroot/",
       "BasePath": "_content/VNpage",
       "RelativePath": "css/Admin#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot/css/Admin.css"
     },
     {
-      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/css/bootstrap.css",
+      "Identity": "/home/et12alumno/Escritorio/VNPage/wwwroot/css/bootstrap.css",
       "SourceId": "VNpage",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/VNPage/wwwroot/",
       "BasePath": "_content/VNpage",
       "RelativePath": "css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot/css/bootstrap.css"
     },
     {
-      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/css/site.css",
+      "Identity": "/home/et12alumno/Escritorio/VNPage/wwwroot/css/site.css",
       "SourceId": "VNpage",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/VNPage/wwwroot/",
       "BasePath": "_content/VNpage",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
-      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/data/novelas.json",
+      "Identity": "/home/et12alumno/Escritorio/VNPage/wwwroot/data/novelas.json",
       "SourceId": "VNpage",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/VNPage/wwwroot/",
       "BasePath": "_content/VNpage",
       "RelativePath": "data/novelas#[.{fingerprint}]?.json",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot/data/novelas.json"
     },
     {
-      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/data/reseñas_usuarios.json",
+      "Identity": "/home/et12alumno/Escritorio/VNPage/wwwroot/data/reseñas_usuarios.json",
       "SourceId": "VNpage",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/VNPage/wwwroot/",
       "BasePath": "_content/VNpage",
       "RelativePath": "data/reseñas_usuarios#[.{fingerprint}]?.json",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot/data/reseñas_usuarios.json"
     },
     {
-      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/favico.ico",
+      "Identity": "/home/et12alumno/Escritorio/VNPage/wwwroot/favico.ico",
       "SourceId": "VNpage",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/VNPage/wwwroot/",
       "BasePath": "_content/VNpage",
       "RelativePath": "favico#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot/favico.ico"
     },
     {
-      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/fondo.jpg",
+      "Identity": "/home/et12alumno/Escritorio/VNPage/wwwroot/Images/fondo.jpg",
       "SourceId": "VNpage",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/VNPage/wwwroot/",
       "BasePath": "_content/VNpage",
       "RelativePath": "Images/fondo#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot/Images/fondo.jpg"
     },
     {
-      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/logo.png",
+      "Identity": "/home/et12alumno/Escritorio/VNPage/wwwroot/Images/logo.png",
       "SourceId": "VNpage",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/VNPage/wwwroot/",
       "BasePath": "_content/VNpage",
       "RelativePath": "Images/logo#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -227,10 +227,10 @@
       "OriginalItemSpec": "wwwroot/Images/logo.png"
     },
     {
-      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/logobanner.png",
+      "Identity": "/home/et12alumno/Escritorio/VNPage/wwwroot/Images/logobanner.png",
       "SourceId": "VNpage",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/VNPage/wwwroot/",
       "BasePath": "_content/VNpage",
       "RelativePath": "Images/logobanner#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -248,10 +248,10 @@
       "OriginalItemSpec": "wwwroot/Images/logobanner.png"
     },
     {
-      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/novelas/a77f9a37-dba6-4449-b9c9-3a957092688e.jpg",
+      "Identity": "/home/et12alumno/Escritorio/VNPage/wwwroot/Images/novelas/a77f9a37-dba6-4449-b9c9-3a957092688e.jpg",
       "SourceId": "VNpage",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/VNPage/wwwroot/",
       "BasePath": "_content/VNpage",
       "RelativePath": "Images/novelas/a77f9a37-dba6-4449-b9c9-3a957092688e#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -269,10 +269,31 @@
       "OriginalItemSpec": "wwwroot/Images/novelas/a77f9a37-dba6-4449-b9c9-3a957092688e.jpg"
     },
     {
-      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/novelas/b2402c6d-b7c8-4fd1-86a5-2de595a34e39.jpg",
+      "Identity": "/home/et12alumno/Escritorio/VNPage/wwwroot/Images/novelas/b21e1f4f-190e-4a94-910b-cb125a893737.jpg",
       "SourceId": "VNpage",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/VNPage/wwwroot/",
+      "BasePath": "_content/VNpage",
+      "RelativePath": "Images/novelas/b21e1f4f-190e-4a94-910b-cb125a893737#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dz1slb7hjc",
+      "Integrity": "CerRCR6Eh09AF4eTYWAVG8DLUBJIGNKuAoAtvTAllVA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/novelas/b21e1f4f-190e-4a94-910b-cb125a893737.jpg"
+    },
+    {
+      "Identity": "/home/et12alumno/Escritorio/VNPage/wwwroot/Images/novelas/b2402c6d-b7c8-4fd1-86a5-2de595a34e39.jpg",
+      "SourceId": "VNpage",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/et12alumno/Escritorio/VNPage/wwwroot/",
       "BasePath": "_content/VNpage",
       "RelativePath": "Images/novelas/b2402c6d-b7c8-4fd1-86a5-2de595a34e39#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -290,10 +311,10 @@
       "OriginalItemSpec": "wwwroot/Images/novelas/b2402c6d-b7c8-4fd1-86a5-2de595a34e39.jpg"
     },
     {
-      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/novelas/DDLC.jpg",
+      "Identity": "/home/et12alumno/Escritorio/VNPage/wwwroot/Images/novelas/DDLC.jpg",
       "SourceId": "VNpage",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/VNPage/wwwroot/",
       "BasePath": "_content/VNpage",
       "RelativePath": "Images/novelas/DDLC#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -311,10 +332,10 @@
       "OriginalItemSpec": "wwwroot/Images/novelas/DDLC.jpg"
     },
     {
-      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/novelas/GoForAPunch.jpg",
+      "Identity": "/home/et12alumno/Escritorio/VNPage/wwwroot/Images/novelas/GoForAPunch.jpg",
       "SourceId": "VNpage",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/VNPage/wwwroot/",
       "BasePath": "_content/VNpage",
       "RelativePath": "Images/novelas/GoForAPunch#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -332,10 +353,10 @@
       "OriginalItemSpec": "wwwroot/Images/novelas/GoForAPunch.jpg"
     },
     {
-      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/novelas/HatofulBoyfriend.jpg",
+      "Identity": "/home/et12alumno/Escritorio/VNPage/wwwroot/Images/novelas/HatofulBoyfriend.jpg",
       "SourceId": "VNpage",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/VNPage/wwwroot/",
       "BasePath": "_content/VNpage",
       "RelativePath": "Images/novelas/HatofulBoyfriend#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -353,10 +374,10 @@
       "OriginalItemSpec": "wwwroot/Images/novelas/HatofulBoyfriend.jpg"
     },
     {
-      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/novelas/KatawaShoujo.jpg",
+      "Identity": "/home/et12alumno/Escritorio/VNPage/wwwroot/Images/novelas/KatawaShoujo.jpg",
       "SourceId": "VNpage",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/VNPage/wwwroot/",
       "BasePath": "_content/VNpage",
       "RelativePath": "Images/novelas/KatawaShoujo#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -374,10 +395,10 @@
       "OriginalItemSpec": "wwwroot/Images/novelas/KatawaShoujo.jpg"
     },
     {
-      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/novelas/MilkInside.jpg",
+      "Identity": "/home/et12alumno/Escritorio/VNPage/wwwroot/Images/novelas/MilkInside.jpg",
       "SourceId": "VNpage",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/VNPage/wwwroot/",
       "BasePath": "_content/VNpage",
       "RelativePath": "Images/novelas/MilkInside#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -395,10 +416,10 @@
       "OriginalItemSpec": "wwwroot/Images/novelas/MilkInside.jpg"
     },
     {
-      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/novelas/MilkOutside.jpg",
+      "Identity": "/home/et12alumno/Escritorio/VNPage/wwwroot/Images/novelas/MilkOutside.jpg",
       "SourceId": "VNpage",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/VNPage/wwwroot/",
       "BasePath": "_content/VNpage",
       "RelativePath": "Images/novelas/MilkOutside#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -416,10 +437,10 @@
       "OriginalItemSpec": "wwwroot/Images/novelas/MilkOutside.jpg"
     },
     {
-      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/js/site.js",
+      "Identity": "/home/et12alumno/Escritorio/VNPage/wwwroot/js/site.js",
       "SourceId": "VNpage",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/VNPage/wwwroot/",
       "BasePath": "_content/VNpage",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -437,10 +458,10 @@
       "OriginalItemSpec": "wwwroot/js/site.js"
     },
     {
-      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "Identity": "/home/et12alumno/Escritorio/VNPage/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "SourceId": "VNpage",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/VNPage/wwwroot/",
       "BasePath": "_content/VNpage",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -458,10 +479,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "Identity": "/home/et12alumno/Escritorio/VNPage/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "SourceId": "VNpage",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/VNPage/wwwroot/",
       "BasePath": "_content/VNpage",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -479,10 +500,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "Identity": "/home/et12alumno/Escritorio/VNPage/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "SourceId": "VNpage",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/VNPage/wwwroot/",
       "BasePath": "_content/VNpage",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -500,10 +521,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "Identity": "/home/et12alumno/Escritorio/VNPage/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "SourceId": "VNpage",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/VNPage/wwwroot/",
       "BasePath": "_content/VNpage",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -521,10 +542,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "Identity": "/home/et12alumno/Escritorio/VNPage/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "SourceId": "VNpage",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/VNPage/wwwroot/",
       "BasePath": "_content/VNpage",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -542,10 +563,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "Identity": "/home/et12alumno/Escritorio/VNPage/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "SourceId": "VNpage",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/VNPage/wwwroot/",
       "BasePath": "_content/VNpage",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -563,10 +584,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "Identity": "/home/et12alumno/Escritorio/VNPage/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "SourceId": "VNpage",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/VNPage/wwwroot/",
       "BasePath": "_content/VNpage",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -584,10 +605,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery-validation/LICENSE.md",
+      "Identity": "/home/et12alumno/Escritorio/VNPage/wwwroot/lib/jquery-validation/LICENSE.md",
       "SourceId": "VNpage",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/VNPage/wwwroot/",
       "BasePath": "_content/VNpage",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -605,10 +626,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery/dist/jquery.js",
+      "Identity": "/home/et12alumno/Escritorio/VNPage/wwwroot/lib/jquery/dist/jquery.js",
       "SourceId": "VNpage",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/VNPage/wwwroot/",
       "BasePath": "_content/VNpage",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -626,10 +647,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.js"
     },
     {
-      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery/dist/jquery.min.js",
+      "Identity": "/home/et12alumno/Escritorio/VNPage/wwwroot/lib/jquery/dist/jquery.min.js",
       "SourceId": "VNpage",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/VNPage/wwwroot/",
       "BasePath": "_content/VNpage",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -647,10 +668,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery/dist/jquery.min.map",
+      "Identity": "/home/et12alumno/Escritorio/VNPage/wwwroot/lib/jquery/dist/jquery.min.map",
       "SourceId": "VNpage",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/VNPage/wwwroot/",
       "BasePath": "_content/VNpage",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -668,10 +689,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.map"
     },
     {
-      "Identity": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery/LICENSE.txt",
+      "Identity": "/home/et12alumno/Escritorio/VNPage/wwwroot/lib/jquery/LICENSE.txt",
       "SourceId": "VNpage",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/VNPage/wwwroot/",
       "BasePath": "_content/VNpage",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -692,7 +713,7 @@
   "Endpoints": [
     {
       "Route": "css/Admin.a890trt4p5.css",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/css/Admin.css",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/css/Admin.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -737,7 +758,7 @@
     },
     {
       "Route": "css/Admin.css",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/css/Admin.css",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/css/Admin.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -774,7 +795,7 @@
     },
     {
       "Route": "css/bootstrap.css",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/css/bootstrap.css",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/css/bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -811,7 +832,7 @@
     },
     {
       "Route": "css/bootstrap.j1uom91mw7.css",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/css/bootstrap.css",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/css/bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -856,7 +877,7 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/css/site.css",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/css/site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -893,7 +914,7 @@
     },
     {
       "Route": "css/site.ty28lxgc1s.css",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/css/site.css",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/css/site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -938,7 +959,7 @@
     },
     {
       "Route": "data/novelas.json",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/data/novelas.json",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/data/novelas.json",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -975,7 +996,7 @@
     },
     {
       "Route": "data/novelas.lwp6i21df9.json",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/data/novelas.json",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/data/novelas.json",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1020,7 +1041,7 @@
     },
     {
       "Route": "data/reseñas_usuarios.json",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/data/reseñas_usuarios.json",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/data/reseñas_usuarios.json",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1057,7 +1078,7 @@
     },
     {
       "Route": "data/reseñas_usuarios.rdwg40nu6w.json",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/data/reseñas_usuarios.json",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/data/reseñas_usuarios.json",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1102,7 +1123,7 @@
     },
     {
       "Route": "favico.ico",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/favico.ico",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/favico.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1139,7 +1160,7 @@
     },
     {
       "Route": "favico.umtfc14n8n.ico",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/favico.ico",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/favico.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1184,7 +1205,7 @@
     },
     {
       "Route": "Images/fondo.9zitsiwp0k.jpg",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/fondo.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/Images/fondo.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1229,7 +1250,7 @@
     },
     {
       "Route": "Images/fondo.jpg",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/fondo.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/Images/fondo.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1266,7 +1287,7 @@
     },
     {
       "Route": "Images/logo.mm8tmb6ihw.png",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/logo.png",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/Images/logo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1311,7 +1332,7 @@
     },
     {
       "Route": "Images/logo.png",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/logo.png",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/Images/logo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1348,7 +1369,7 @@
     },
     {
       "Route": "Images/logobanner.akp1ptgwad.png",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/logobanner.png",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/Images/logobanner.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1393,7 +1414,7 @@
     },
     {
       "Route": "Images/logobanner.png",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/logobanner.png",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/Images/logobanner.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1430,7 +1451,7 @@
     },
     {
       "Route": "Images/novelas/a77f9a37-dba6-4449-b9c9-3a957092688e.jpg",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/novelas/a77f9a37-dba6-4449-b9c9-3a957092688e.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/Images/novelas/a77f9a37-dba6-4449-b9c9-3a957092688e.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1467,7 +1488,7 @@
     },
     {
       "Route": "Images/novelas/a77f9a37-dba6-4449-b9c9-3a957092688e.wgfw9js7x0.jpg",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/novelas/a77f9a37-dba6-4449-b9c9-3a957092688e.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/Images/novelas/a77f9a37-dba6-4449-b9c9-3a957092688e.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1511,8 +1532,90 @@
       ]
     },
     {
+      "Route": "Images/novelas/b21e1f4f-190e-4a94-910b-cb125a893737.dz1slb7hjc.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/Images/novelas/b21e1f4f-190e-4a94-910b-cb125a893737.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8003"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CerRCR6Eh09AF4eTYWAVG8DLUBJIGNKuAoAtvTAllVA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 05 Dec 2025 20:29:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dz1slb7hjc"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/novelas/b21e1f4f-190e-4a94-910b-cb125a893737.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CerRCR6Eh09AF4eTYWAVG8DLUBJIGNKuAoAtvTAllVA="
+        }
+      ]
+    },
+    {
+      "Route": "Images/novelas/b21e1f4f-190e-4a94-910b-cb125a893737.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/Images/novelas/b21e1f4f-190e-4a94-910b-cb125a893737.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8003"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CerRCR6Eh09AF4eTYWAVG8DLUBJIGNKuAoAtvTAllVA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 05 Dec 2025 20:29:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CerRCR6Eh09AF4eTYWAVG8DLUBJIGNKuAoAtvTAllVA="
+        }
+      ]
+    },
+    {
       "Route": "Images/novelas/b2402c6d-b7c8-4fd1-86a5-2de595a34e39.dz1slb7hjc.jpg",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/novelas/b2402c6d-b7c8-4fd1-86a5-2de595a34e39.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/Images/novelas/b2402c6d-b7c8-4fd1-86a5-2de595a34e39.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1557,7 +1660,7 @@
     },
     {
       "Route": "Images/novelas/b2402c6d-b7c8-4fd1-86a5-2de595a34e39.jpg",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/novelas/b2402c6d-b7c8-4fd1-86a5-2de595a34e39.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/Images/novelas/b2402c6d-b7c8-4fd1-86a5-2de595a34e39.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1594,7 +1697,7 @@
     },
     {
       "Route": "Images/novelas/DDLC.6s2v1w7af5.jpg",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/novelas/DDLC.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/Images/novelas/DDLC.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1639,7 +1742,7 @@
     },
     {
       "Route": "Images/novelas/DDLC.jpg",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/novelas/DDLC.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/Images/novelas/DDLC.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1676,7 +1779,7 @@
     },
     {
       "Route": "Images/novelas/GoForAPunch.jpg",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/novelas/GoForAPunch.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/Images/novelas/GoForAPunch.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1713,7 +1816,7 @@
     },
     {
       "Route": "Images/novelas/GoForAPunch.ogic6s2p55.jpg",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/novelas/GoForAPunch.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/Images/novelas/GoForAPunch.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1758,7 +1861,7 @@
     },
     {
       "Route": "Images/novelas/HatofulBoyfriend.7ek86q4y37.jpg",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/novelas/HatofulBoyfriend.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/Images/novelas/HatofulBoyfriend.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1803,7 +1906,7 @@
     },
     {
       "Route": "Images/novelas/HatofulBoyfriend.jpg",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/novelas/HatofulBoyfriend.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/Images/novelas/HatofulBoyfriend.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1840,7 +1943,7 @@
     },
     {
       "Route": "Images/novelas/KatawaShoujo.jpg",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/novelas/KatawaShoujo.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/Images/novelas/KatawaShoujo.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1877,7 +1980,7 @@
     },
     {
       "Route": "Images/novelas/KatawaShoujo.w9h6608c16.jpg",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/novelas/KatawaShoujo.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/Images/novelas/KatawaShoujo.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1922,7 +2025,7 @@
     },
     {
       "Route": "Images/novelas/MilkInside.dz1slb7hjc.jpg",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/novelas/MilkInside.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/Images/novelas/MilkInside.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1967,7 +2070,7 @@
     },
     {
       "Route": "Images/novelas/MilkInside.jpg",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/novelas/MilkInside.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/Images/novelas/MilkInside.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2004,7 +2107,7 @@
     },
     {
       "Route": "Images/novelas/MilkOutside.jpg",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/novelas/MilkOutside.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/Images/novelas/MilkOutside.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2041,7 +2144,7 @@
     },
     {
       "Route": "Images/novelas/MilkOutside.wgfw9js7x0.jpg",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/Images/novelas/MilkOutside.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/Images/novelas/MilkOutside.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2086,7 +2189,7 @@
     },
     {
       "Route": "js/site.fr7q2aak1r.js",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/js/site.js",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/js/site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2131,7 +2234,7 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/js/site.js",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/js/site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2168,7 +2271,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.47otxtyo56.js",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2213,7 +2316,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2250,7 +2353,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.4v8eqarkd7.js",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2295,7 +2398,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2332,7 +2435,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.l3n5xuwxn8.txt",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2377,7 +2480,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2414,7 +2517,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.gcjdx5jb8l.js",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2459,7 +2562,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2496,7 +2599,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.35gxhxa0gh.js",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2541,7 +2644,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2578,7 +2681,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2615,7 +2718,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.b7iojwaux1.js",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2660,7 +2763,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2697,7 +2800,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.pzqfkb6aqo.js",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2742,7 +2845,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.md",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery-validation/LICENSE.md",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/lib/jquery-validation/LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2779,7 +2882,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.xzw0cte36n.md",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery-validation/LICENSE.md",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/lib/jquery-validation/LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2824,7 +2927,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.fwhahm2icz.js",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery/dist/jquery.js",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/lib/jquery/dist/jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2869,7 +2972,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery/dist/jquery.js",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/lib/jquery/dist/jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2906,7 +3009,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.5pze98is44.map",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery/dist/jquery.min.map",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/lib/jquery/dist/jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2951,7 +3054,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.dd6z7egasc.js",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery/dist/jquery.min.js",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/lib/jquery/dist/jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2996,7 +3099,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery/dist/jquery.min.js",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/lib/jquery/dist/jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3033,7 +3136,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery/dist/jquery.min.map",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/lib/jquery/dist/jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3070,7 +3173,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.jfsiqqwiad.txt",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery/LICENSE.txt",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/lib/jquery/LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3115,7 +3218,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/wwwroot/lib/jquery/LICENSE.txt",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/wwwroot/lib/jquery/LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3152,7 +3255,7 @@
     },
     {
       "Route": "VNpage.bundle.scp.css",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/obj/Debug/net8.0/scopedcss/projectbundle/VNpage.bundle.scp.css",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/obj/Debug/net8.0/scopedcss/projectbundle/VNpage.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3173,7 +3276,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 03 Dec 2025 19:00:08 GMT"
+          "Value": "Fri, 05 Dec 2025 19:52:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3189,7 +3292,7 @@
     },
     {
       "Route": "VNpage.styles.css",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/obj/Debug/net8.0/scopedcss/bundle/VNpage.styles.css",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/obj/Debug/net8.0/scopedcss/bundle/VNpage.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3210,7 +3313,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 03 Dec 2025 19:00:08 GMT"
+          "Value": "Fri, 05 Dec 2025 19:52:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3226,7 +3329,7 @@
     },
     {
       "Route": "VNpage.vonu8x19tm.bundle.scp.css",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/obj/Debug/net8.0/scopedcss/projectbundle/VNpage.bundle.scp.css",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/obj/Debug/net8.0/scopedcss/projectbundle/VNpage.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3247,7 +3350,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 03 Dec 2025 19:00:08 GMT"
+          "Value": "Fri, 05 Dec 2025 19:52:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3271,7 +3374,7 @@
     },
     {
       "Route": "VNpage.vonu8x19tm.styles.css",
-      "AssetFile": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/obj/Debug/net8.0/scopedcss/bundle/VNpage.styles.css",
+      "AssetFile": "/home/et12alumno/Escritorio/VNPage/obj/Debug/net8.0/scopedcss/bundle/VNpage.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3292,7 +3395,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 03 Dec 2025 19:00:08 GMT"
+          "Value": "Fri, 05 Dec 2025 19:52:58 GMT"
         },
         {
           "Name": "Cache-Control",

@@ -11,8 +11,8 @@ using VNpage.Data;
 namespace VNpage.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20251203212443_InitIdentity")]
-    partial class InitIdentity
+    [Migration("20251205202336_InitialCreate")]
+    partial class InitialCreate
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -271,9 +271,6 @@ namespace VNpage.Migrations
                         .IsRequired()
                         .HasColumnType("TEXT");
 
-                    b.Property<int>("NovelaId")
-                        .HasColumnType("INTEGER");
-
                     b.Property<double>("Puntaje")
                         .HasColumnType("REAL");
 
@@ -287,8 +284,6 @@ namespace VNpage.Migrations
                         .HasColumnType("TEXT");
 
                     b.HasKey("Id");
-
-                    b.HasIndex("NovelaId");
 
                     b.ToTable("Novelas", (string)null);
                 });
@@ -400,17 +395,6 @@ namespace VNpage.Migrations
                     b.Navigation("NovelaVisual");
 
                     b.Navigation("Usuario");
-                });
-
-            modelBuilder.Entity("VNpage.Models.NovelaVisual", b =>
-                {
-                    b.HasOne("VNpage.Models.NovelaVisual", "Novela")
-                        .WithMany()
-                        .HasForeignKey("NovelaId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Novela");
                 });
 
             modelBuilder.Entity("VNpage.Models.Resena", b =>

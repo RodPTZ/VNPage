@@ -268,9 +268,6 @@ namespace VNpage.Migrations
                         .IsRequired()
                         .HasColumnType("TEXT");
 
-                    b.Property<int>("NovelaId")
-                        .HasColumnType("INTEGER");
-
                     b.Property<double>("Puntaje")
                         .HasColumnType("REAL");
 
@@ -284,8 +281,6 @@ namespace VNpage.Migrations
                         .HasColumnType("TEXT");
 
                     b.HasKey("Id");
-
-                    b.HasIndex("NovelaId");
 
                     b.ToTable("Novelas", (string)null);
                 });
@@ -397,17 +392,6 @@ namespace VNpage.Migrations
                     b.Navigation("NovelaVisual");
 
                     b.Navigation("Usuario");
-                });
-
-            modelBuilder.Entity("VNpage.Models.NovelaVisual", b =>
-                {
-                    b.HasOne("VNpage.Models.NovelaVisual", "Novela")
-                        .WithMany()
-                        .HasForeignKey("NovelaId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Novela");
                 });
 
             modelBuilder.Entity("VNpage.Models.Resena", b =>

@@ -24,7 +24,7 @@ namespace VNpage.Pages.Admin
             _env = env;
         }
 
-        public async Task<IActionResult> OnPostAsync()
+        public async Task<IActionResult> OnPost()
         {
             if (!ModelState.IsValid)
                 return Page();

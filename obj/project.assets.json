@@ -2789,11 +2789,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/VNpage.csproj",
+      "projectUniqueName": "/home/et12alumno/Escritorio/VNPage/VNpage.csproj",
       "projectName": "VNpage",
-      "projectPath": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/VNpage.csproj",
+      "projectPath": "/home/et12alumno/Escritorio/VNPage/VNpage.csproj",
       "packagesPath": "/home/et12alumno/.nuget/packages/",
-      "outputPath": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/obj/",
+      "outputPath": "/home/et12alumno/Escritorio/VNPage/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/et12alumno/.nuget/NuGet/NuGet.Config"

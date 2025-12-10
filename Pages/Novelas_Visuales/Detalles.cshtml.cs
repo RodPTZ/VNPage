@@ -29,12 +29,13 @@ namespace VNpage.Pages.Novelas_Visuales
         public NovelaVisual NovelaVisual { get; set; }
 
         // Para escribir comentario nuevo
+        [BindProperty]
         public Comentario NuevoComentario { get; set; }
 
         // Lista de comentarios
         public IList<Comentario> Comentarios { get; set; }
 
-        public async Task<IActionResult> OnGetAsync(int id)
+        public async Task<IActionResult> OnGet(int id)
         {
             NovelaVisual = await _context.NovelasVisuales
                 .Include(n => n.Comentarios)
@@ -51,7 +52,7 @@ namespace VNpage.Pages.Novelas_Visuales
             return Page();
         }
 
-        public async Task<IActionResult> OnPostAsync(int id)
+        public async Task<IActionResult> OnPost(int id)
         {
             if (!ModelState.IsValid)
                 return Page();

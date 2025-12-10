@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VNpage")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4ed0299d8c66683b48d9ccede904eaad745038f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6fd4a7725ffc87e9e48bcd7af265c585cf0fd891")]
 [assembly: System.Reflection.AssemblyProductAttribute("VNpage")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VNpage")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

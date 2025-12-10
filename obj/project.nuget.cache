@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iX17H+1i+iw=",
+  "dgSpecHash": "noFktvhZtyA=",
   "success": true,
-  "projectFilePath": "/home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/VNpage.csproj",
+  "projectFilePath": "/home/et12alumno/Escritorio/VNPage/VNpage.csproj",
   "expectedPackageFiles": [
     "/home/et12alumno/.nuget/packages/bcrypt.net-next/4.0.3/bcrypt.net-next.4.0.3.nupkg.sha512",
     "/home/et12alumno/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",

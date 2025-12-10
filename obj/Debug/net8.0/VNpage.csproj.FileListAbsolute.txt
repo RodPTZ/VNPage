@@ -37,8 +37,6 @@ C:/Users/andre/OneDrive/Escritorio/VNpage/obj/Debug/net8.0/ref/VNpage.dll
 /home/et12alumno/Escritorio/VNpage/obj/Debug/net8.0/VNpage.RazorAssemblyInfo.cache
 /home/et12alumno/Escritorio/VNpage/obj/Debug/net8.0/VNpage.RazorAssemblyInfo.cs
 /home/et12alumno/Escritorio/VNpage/obj/Debug/net8.0/VNpage.sourcelink.json
-/home/et12alumno/Escritorio/VNpage/bin/Debug/net8.0/appsettings.Development.json
-/home/et12alumno/Escritorio/VNpage/bin/Debug/net8.0/appsettings.json
 /home/et12alumno/Escritorio/VNpage/bin/Debug/net8.0/VNpage.staticwebassets.runtime.json
 /home/et12alumno/Escritorio/VNpage/bin/Debug/net8.0/VNpage
 /home/et12alumno/Escritorio/VNpage/bin/Debug/net8.0/VNpage.deps.json
@@ -87,7 +85,6 @@ C:/Users/andre/OneDrive/Escritorio/VNpage/obj/Debug/net8.0/ref/VNpage.dll
 /home/et12alumno/Escritorio/VNpage/obj/Debug/net8.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
 /home/et12alumno/Escritorio/VNpage/obj/Debug/net8.0/scopedcss/bundle/VNpage.styles.css
 /home/et12alumno/Escritorio/VNpage/obj/Debug/net8.0/scopedcss/projectbundle/VNpage.bundle.scp.css
-/home/et12alumno/Escritorio/VNpage/obj/Debug/net8.0/VNpage.csproj.CopyComplete
 /home/et12alumno/Escritorio/VNpage/obj/Debug/net8.0/VNpage.dll
 /home/et12alumno/Escritorio/VNpage/obj/Debug/net8.0/refint/VNpage.dll
 /home/et12alumno/Escritorio/VNpage/obj/Debug/net8.0/VNpage.pdb
@@ -291,3 +288,9 @@ C:/Users/andre/OneDrive/Escritorio/VNpage/obj/Debug/net8.0/ref/VNpage.dll
 /home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/obj/Debug/net8.0/VNpage.pdb
 /home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/obj/Debug/net8.0/VNpage.genruntimeconfig.cache
 /home/et12alumno/Escritorio/Carpeta sin título 2/VNpage/obj/Debug/net8.0/ref/VNpage.dll
+/home/et12alumno/Escritorio/VNPage/bin/Debug/net8.0/VNpage.staticwebassets.endpoints.json
+/home/et12alumno/Escritorio/VNPage/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/home/et12alumno/Escritorio/VNPage/obj/Debug/net8.0/staticwebassets/msbuild.VNpage.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/home/et12alumno/Escritorio/VNPage/obj/Debug/net8.0/VNpage.csproj.Up2Date
+/home/et12alumno/Escritorio/VNPage/bin/Debug/net8.0/appsettings.Development.json
+/home/et12alumno/Escritorio/VNPage/bin/Debug/net8.0/appsettings.json
