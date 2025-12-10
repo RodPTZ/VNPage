@@ -1,3 +1,6 @@
+<div style="text-align:center;">
+<img src="wwwroot/Images/logo.png">
+</div>
 # VNPage
 
 **VNPage** es una aplicación web desarrollada en **ASP.NET Core 8** diseñada para la gestión, exploración y reseña de novelas visuales. El proyecto permite a los usuarios ver un catálogo de novelas, leer reseñas y permite a los administradores gestionar el contenido.

@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets/Images/logobanner.png"
     },
     {
+      "Id": "/home/et12alumno/Escritorio/VNPage/wwwroot/Images/novelas/5e8376ce-9728-4e71-8b4e-48cf5504699f.jpg",
+      "PackagePath": "staticwebassets/Images/novelas/5e8376ce-9728-4e71-8b4e-48cf5504699f.jpg"
+    },
+    {
       "Id": "/home/et12alumno/Escritorio/VNPage/wwwroot/Images/novelas/DDLC.jpg",
       "PackagePath": "staticwebassets/Images/novelas/DDLC.jpg"
     },
@@ -51,6 +55,10 @@
     {
       "Id": "/home/et12alumno/Escritorio/VNPage/wwwroot/Images/novelas/b2402c6d-b7c8-4fd1-86a5-2de595a34e39.jpg",
       "PackagePath": "staticwebassets/Images/novelas/b2402c6d-b7c8-4fd1-86a5-2de595a34e39.jpg"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/VNPage/wwwroot/Images/novelas/fe753d17-8fc3-4375-90d5-65e9c8952c8b.jpg",
+      "PackagePath": "staticwebassets/Images/novelas/fe753d17-8fc3-4375-90d5-65e9c8952c8b.jpg"
     },
     {
       "Id": "/home/et12alumno/Escritorio/VNPage/wwwroot/css/Admin.css",
