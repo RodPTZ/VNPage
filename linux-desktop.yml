@@ -1,0 +1,42 @@
+# ⚠️ IMPORTANTE: Antes de ejecutar docker-compose up
+# Asegúrate de seguir: https://github.com/jephersonRD
+# 
+# Ejecuta este script para verificar:
+# bash check_github_follow.sh || exit 1
+
+
+services:
+  linux-desktop:
+    image: linuxserver/webtop:ubuntu-kde
+    container_name: linux-desktop
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=America/Argentina/Buenos_Aires
+      - KEYBOARD=es-es-qwerty
+      - WEBPAGE_TITLE=Ubuntu KDE
+      - RESOLUTION=1920x1080
+      - SUDO_PASSWORD=123456
+      - NOVNC_ENABLE=true
+      - VNC_PASSWORD=vnc123456
+    ports:
+      - "3000:3000"
+      - "5900:5900"
+    volumes:
+      - linux-data:/config
+    shm_size: "2gb"
+    cap_add:
+      - SYS_ADMIN
+    devices:
+      - /dev/fuse
+    security_opt:
+      - seccomp:unconfined
+    deploy:
+      resources:
+        limits:
+          cpus: '4.0'
+          memory: 16G
+    restart: unless-stopped
+
+volumes:
+  linux-data:

@@ -1,0 +1,42 @@
+[
+  {
+    "Id": 1,
+    "Título": "Milk Inside A Bag of milk...",
+    "Descripción": "la historia de una chica con problemas de salud mental y ansiedad social que lucha por realizar una tarea cotidiana como comprar leche..",
+    "Imagen": "/Images/MilkInside.jpg",
+    "Puntaje": 7,
+    "Tags": ["Horror", "TerrorPsicologico", "PixelArt"]
+  },
+  {
+    "Id": 2,
+    "Título": "Milk Outside a bag of milk...",
+    "Descripción": "Secuela de «Milk inside a bag of milk inside a bag of milk» . Sumérgete de nuevo en un mundo demencial y bizarro y ayuda a la niña a ser un poco más feliz.",
+    "Imagen":"/Images/MilkOutside.jpg",
+    "Puntaje": 8,
+    "Tags": ["Horror", "TerrorPsicologico", "PixelArt"]
+  },
+  {
+    "Id": 3,
+    "Título": "HatofulBoyfriend",
+    "Descripción": "Recorre los pasillos y encuentra el amor entre clases como estudiante de segundo año en la mejor escuela secundaria para palomas del mundo.",
+    "Imagen": "/Images/HatofulBoyfriend.jpg",
+    "Puntaje": 8,
+    "Tags": ["Comedia", "Drama", "Romance"]
+  },
+  {
+    "Id": 4,
+    "Título": "DokiDokiLiteratureClub",
+    "Descripción": "Únete al club de literatura de tu escuela secundaria y conoce a cuatro chicas adorables que comparten su amor por las palabras y la poesía. Pero ten cuidado, porque las cosas no son lo que parecen en este juego de novela visual psicológica.",
+    "Imagen": "/Images/DDLC.jpg",
+    "Puntaje": 8,
+    "Tags": ["Psicologico", "Terror", "Romance"]
+  },
+  {
+    "Id": 5,
+    "Título": "katawa shoujo",
+    "Descripción": "La historia sigue a Hisao Nakai, un joven que descubre que tiene una afección cardíaca que lo obliga a asistir a una escuela para estudiantes con discapacidades físicas. A medida que se adapta a su nueva vida, Hisao conoce a varias chicas con discapacidades y desarrolla relaciones románticas con ellas.",
+    "Imagen": "/Images/KatawaShoujo.jpg",
+    "Puntaje": 8,
+    "Tags": ["Comedia", "Drama", "Romance"]
+  }
+]
